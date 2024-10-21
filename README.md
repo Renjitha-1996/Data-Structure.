@@ -1,1 +1,2 @@
 # Data-Structure.
+This repository contains a series of Python exercises focusing on various data structures and operations in Python. The exercises are categorized based on the data structures being worked with, such as lists, dictionaries, sets, tuples, and also comprehension tasks involving strings, lists, sets, and dictionaries. Each section comes with multiple questions aimed at reinforcing the understanding of these topics.
